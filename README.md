@@ -1,5 +1,5 @@
 Heart Failure Prediction
-PRML Course Project Report
+ Project Report
 
 
 ABSTRACT
