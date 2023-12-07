@@ -2,7 +2,7 @@
 
 <p id="description">We will predict the chance of heart failure by applying machine learning techniques. The work is to design and develop models to predict heart failure rate. With the advanced development in machine learning (ML) artificial intelligence (AI) and data science has been shown to be effective in assisting in decision making and predictions from the large quantity of data produced by the healthcare industry.</p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Photo:</h2>
 
 <img src="<a href=<a href="https://ibb.co/2h9qQFJ"><img src="https://i.ibb.co/ZXjdPf9/dataset-cover.jpg" alt="dataset-cover" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online pic share</a><br />
 
