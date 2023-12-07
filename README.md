@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Futsavvora.medium.com%2Fheart-disease-prediction-using-support-vector-machine-svm-34d8c01c596&amp;psig=AOvVaw3ekRDKJC98ByzScAAZVtyX&amp;ust=1702054841129000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBIQjRxqFwoTCLDciK7n_YIDFQAAAAAdAAAAABAD" alt="project-screenshot" width="5" height="5/">
+<img src="https://ibb.co/qdfFj5D" alt="project-screenshot" width="10" height="10/">
 
   
   
