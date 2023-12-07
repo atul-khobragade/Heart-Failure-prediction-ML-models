@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://ibb.co/qdfFj5D" alt="project-screenshot" width="10" height="10/">
+<img src="<a href="https://ibb.co/qdfFj5D"><img src="https://i.ibb.co/rmSf0sQ/heart-disease.png" alt="heart-disease" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>temporary photo sharing</a><br />">
 
   
   
