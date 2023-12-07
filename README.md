@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="<a href="https://ibb.co/qdfFj5D"><img src="https://i.ibb.co/rmSf0sQ/heart-disease.png" alt="heart-disease" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>temporary photo sharing</a><br />">
+<img src="<a href=<a href="https://ibb.co/2h9qQFJ"><img src="https://i.ibb.co/ZXjdPf9/dataset-cover.jpg" alt="dataset-cover" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online pic share</a><br />
 
   
   
