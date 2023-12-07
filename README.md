@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Heart Failure Prediction Project</h1>
 
-<p id="description">In this report we will predict the chance of heart failure by applying machine learning techniques. The work is to design and develop models to predict heart failure rate. With the advanced development in machine learning (ML) artificial intelligence (AI) and data science has been shown to be effective in assisting in decision making and predictions from the large quantity of data produced by the healthcare industry.</p>
+<p id="description">We will predict the chance of heart failure by applying machine learning techniques. The work is to design and develop models to predict heart failure rate. With the advanced development in machine learning (ML) artificial intelligence (AI) and data science has been shown to be effective in assisting in decision making and predictions from the large quantity of data produced by the healthcare industry.</p>
 
 <h2>Project Screenshots:</h2>
 
